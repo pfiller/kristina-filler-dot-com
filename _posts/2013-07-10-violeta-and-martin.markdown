@@ -1,0 +1,15 @@
+---
+layout: default
+title:  "Violeta and Martin's Wedding Invite"
+categories: weddings
+
+thumbnail: violeta_wedding_invite
+---
+
+<img src="/images/violeta_wedding_invite_01.jpg" width="790" height="669">
+
+# Violeta and Martin's Wedding Invite
+
+Martin and Violeta share interest in science and bikes, so it was fun to combine two somewhat random things - or "marry" them - if you will. Ha. (Sorry)
+
+<img src="/images/violeta_wedding_invite_02.jpg" width="790" height="527">

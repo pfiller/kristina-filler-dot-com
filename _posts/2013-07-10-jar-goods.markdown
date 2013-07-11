@@ -1,0 +1,19 @@
+---
+layout: default
+title:  "Jar Goods Packaging"
+categories: food-design
+
+thumbnail: jargoods
+---
+
+<img src="/images/jargoods_01.jpg" width="790" height="527">
+
+# Jar Goods Packaging
+
+[Jar Goods](http://jargoods.com/) is a line of fine, small batch specialty foods intended to make meal preparation easier for the busy but discerning home cook. Their sauce was crafted with care for your tastebuds as well as the environment. It's made in small batches with fresh ingredients and packaged in BPA-free jars.
+
+The shape on the front of the jar is the face of a spade made to look as if it's digging into soil, indicating the freshness of the ingredients used. Take a taste of their first sauce, [Classic Red](http://jargoods.com/classic-red/).
+
+<img src="/images/jargoods_02.jpg" width="790" height="527">
+<img src="/images/jargoods_03.jpg" width="790" height="527">
+<img src="/images/jargoods_04.jpg" width="790" height="527">

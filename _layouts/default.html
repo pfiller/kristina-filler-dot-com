@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }} {{site.name}}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+    </head>
+    <body>
+
+      <header>
+        {% if page.path == "index.html" %}
+        <h1 class="title">{{ page.title }} {{site.name}}</h1>
+        {% else %}
+        <a href="/"><h3 class="title">{{ page.title }} {{site.name}}</h3></a>
+        {% endif %}
+        
+        <nav>
+          <ul>
+            <li><a href="/food-design.html">Food Design</a></li>
+            <li><a href="/apparel.html">Apparel</a></li>
+            <li><a href="/fun-stuff.html">Fun Stuff</a></li>
+            <li><a href="/weddings.html">Weddings</a></li>
+            <li><a href="/about-contact.html">About &amp; Contact</a></li>
+            <li class="copyright">All works &copy; 2013 Kristina Filler</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <article>
+        {{ content }}
+      </article>
+
+    </body>
+</html>

@@ -1,3 +1,7 @@
-name: Kristina Filler
+safe: true
+lsi: false
 pygments: true
+markdown: maruku
+
+name: Kristina Filler
 permalink: /work/:title.html

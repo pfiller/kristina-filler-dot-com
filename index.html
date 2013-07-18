@@ -5,6 +5,6 @@ title: Design
 
 <ul class="design-thumbs">
   {% for post in site.posts %}
-    <li><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" /></a></li>
+    <li><a href="{{ site.baseurl}}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" /></a></li>
   {% endfor %}
 </ul>

@@ -6,10 +6,10 @@ categories: weddings
 thumbnail: lawren_wedding_invite
 ---
 
-<img src="/images/lawren_wedding_invite_01.jpg" width="790" height="487">
+<img src="{{ site.baseurl}}/images/lawren_wedding_invite_01.jpg" width="790" height="487">
 
 # Lawren and Scott's Wedding Invite
 
 I had always been curious about designing wedding invitations and Scott & Lawren's was the first I had the privilege of making. Lawren picked the papers and her girly, original style made for a cool, unconventional invite. My favorite parts are the funky type and the skull hidden in the arch above them.
 
-<img src="/images/lawren_wedding_invite_02.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/lawren_wedding_invite_02.jpg" width="790" height="527">

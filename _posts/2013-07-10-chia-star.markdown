@@ -6,7 +6,7 @@ categories: food-design
 thumbnail: chiastar_bottledesign
 ---
 
-<img src="/images/chiastar_bottledesign_01.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/chiastar_bottledesign_01.jpg" width="790" height="527">
 
 # Chia Star
 
@@ -14,6 +14,6 @@ thumbnail: chiastar_bottledesign
 
 The Chia Star labels have been [featured on The Dieline](http://www.thedieline.com/blog/2012/7/30/chia-star.html)
 
-<img src="/images/chiastar_bottledesign_02.jpg" width="790" height="527">
-<img src="/images/chiastar_bottledesign_03.jpg" width="790" height="527">
-<img src="/images/chiastar_bottledesign_04.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/chiastar_bottledesign_02.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/chiastar_bottledesign_03.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/chiastar_bottledesign_04.jpg" width="790" height="527">

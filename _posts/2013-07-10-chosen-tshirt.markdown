@@ -6,7 +6,7 @@ categories: apparel
 thumbnail: chosen_tshirt
 ---
 
-<img src="/images/violeta_wedding_invite_01.jpg" width="790" height="669">
+<img src="{{ site.baseurl}}/images/violeta_wedding_invite_01.jpg" width="790" height="669">
 
 # Chosen T-Shirt
 

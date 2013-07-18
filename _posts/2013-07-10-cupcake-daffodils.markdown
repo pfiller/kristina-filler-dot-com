@@ -6,7 +6,7 @@ categories: apparel
 thumbnail: cupcake_daffodils
 ---
 
-<img src="/images/cupcake_daffodils.gif" width="790" height="550">
+<img src="{{ site.baseurl}}/images/cupcake_daffodils.gif" width="790" height="550">
 
 # Cupcake Daffodils
 

@@ -15,16 +15,16 @@
         {% if page.path == "index.html" %}
         <h1 class="title">{{ page.title }} {{site.name}}</h1>
         {% else %}
-        <a href="/"><h3 class="title">{{ page.title }} {{site.name}}</h3></a>
+        <a href="{{ site.baseurl}}/"><h3 class="title">{{ page.title }} {{site.name}}</h3></a>
         {% endif %}
         
         <nav>
           <ul>
-            <li><a href="/food-design.html">Food Design</a></li>
-            <li><a href="/apparel.html">Apparel</a></li>
-            <li><a href="/fun-stuff.html">Fun Stuff</a></li>
-            <li><a href="/weddings.html">Weddings</a></li>
-            <li><a href="/about-contact.html">About &amp; Contact</a></li>
+            <li><a href="{{ site.baseurl}}/food-design.html">Food Design</a></li>
+            <li><a href="{{ site.baseurl}}/apparel.html">Apparel</a></li>
+            <li><a href="{{ site.baseurl}}/fun-stuff.html">Fun Stuff</a></li>
+            <li><a href="{{ site.baseurl}}/weddings.html">Weddings</a></li>
+            <li><a href="{{ site.baseurl}}/about-contact.html">About &amp; Contact</a></li>
             <li class="copyright">All works &copy; 2013 Kristina Filler</a></li>
           </ul>
         </nav>

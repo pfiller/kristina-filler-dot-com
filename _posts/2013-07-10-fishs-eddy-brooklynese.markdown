@@ -6,7 +6,7 @@ categories: food-design
 thumbnail: brooklynese
 ---
 
-<img src="/images/brooklynese_01.jpg" width="790" height="500">
+<img src="{{ site.baseurl}}/images/brooklynese_01.jpg" width="790" height="500">
 
 # Fish's Eddy Brooklynese Set
 
@@ -14,7 +14,7 @@ thumbnail: brooklynese
 
 You can [buy the set on their site](http://www.fishseddy.com/browse.cfm/2,108.html)
 
-<img src="/images/brooklynese_02.jpg" width="790" height="500">
-<img src="/images/brooklynese_03.jpg" width="790" height="500">
-<img src="/images/brooklynese_04.jpg" width="790" height="500">
-<img src="/images/brooklynese_05.jpg" width="790" height="500">
+<img src="{{ site.baseurl}}/images/brooklynese_02.jpg" width="790" height="500">
+<img src="{{ site.baseurl}}/images/brooklynese_03.jpg" width="790" height="500">
+<img src="{{ site.baseurl}}/images/brooklynese_04.jpg" width="790" height="500">
+<img src="{{ site.baseurl}}/images/brooklynese_05.jpg" width="790" height="500">

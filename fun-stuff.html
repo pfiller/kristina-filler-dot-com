@@ -5,6 +5,6 @@ title: Fun and personal works of
 
 <ul class="design-thumbs">
   {% for post in site.categories.fun-stuff %}
-    <li><a href="{{ post.url }}" title="{{ post.title }}"><img src="/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" /></a></li>
+    <li><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" /></a></li>
   {% endfor %}
 </ul>

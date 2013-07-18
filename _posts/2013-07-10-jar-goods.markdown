@@ -6,7 +6,7 @@ categories: food-design
 thumbnail: jargoods
 ---
 
-<img src="/images/jargoods_01.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/jargoods_01.jpg" width="790" height="527">
 
 # Jar Goods Packaging
 
@@ -14,6 +14,6 @@ thumbnail: jargoods
 
 The shape on the front of the jar is the face of a spade made to look as if it's digging into soil, indicating the freshness of the ingredients used. Take a taste of their first sauce, [Classic Red](http://jargoods.com/classic-red/).
 
-<img src="/images/jargoods_02.jpg" width="790" height="527">
-<img src="/images/jargoods_03.jpg" width="790" height="527">
-<img src="/images/jargoods_04.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/jargoods_02.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/jargoods_03.jpg" width="790" height="527">
+<img src="{{ site.baseurl}}/images/jargoods_04.jpg" width="790" height="527">

@@ -6,7 +6,7 @@ categories: food-design
 thumbnail: askinosie_intelligentsia
 ---
 
-<img src="/images/askinosie_intelligentsia_02.jpg" width="790" height="593">
+<img src="{{ site.baseurl}}/images/askinosie_intelligentsia_02.jpg" width="790" height="593">
 
 # Askinosie + Intelligentsia Sipping Chocolate
 

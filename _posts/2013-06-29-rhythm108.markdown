@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Rhythm108 Branding"
-categories: food-design
+category: food-design
 
 thumbnail: rhythm108_design
 ---

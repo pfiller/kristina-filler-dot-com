@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Scott's Pizza Tours Branding"
-categories: food-design
+category: food-design
 
 thumbnail: scottspizzatours
 ---

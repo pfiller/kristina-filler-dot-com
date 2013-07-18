@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Greyston Bakery Annual Report"
-categories: food-design
+category: food-design
 
 thumbnail: peanut_butter_boy_design
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Kristy and Patrick's Wedding Invite"
-categories: weddings
+category: weddings
 
 thumbnail: filler_wedding_invite
 ---

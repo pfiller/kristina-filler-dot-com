@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Fish's Eddy Brooklynese Set"
-categories: food-design
+category: food-design
 
 thumbnail: brooklynese
 ---

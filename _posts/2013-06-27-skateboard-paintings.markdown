@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Painted Skateboards"
-categories: fun-stuff
+category: fun-stuff
 
 thumbnail: skateboard
 ---

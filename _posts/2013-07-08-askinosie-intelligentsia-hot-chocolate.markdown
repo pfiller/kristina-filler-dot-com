@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Askinosie + Intelligentsia Sipping Chocolate Package Design by"
-categories: food-design
+category: food-design
 
 thumbnail: askinosie_intelligentsia
 ---

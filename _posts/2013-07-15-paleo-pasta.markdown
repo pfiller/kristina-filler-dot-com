@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Paleo Pasta Branding"
-categories: food-design
+category: food-design
 
 thumbnail: paleopasta
 ---

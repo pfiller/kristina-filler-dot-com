@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Painted Picture Frames"
-categories: fun-stuff
+category: fun-stuff
 
 thumbnail: painted_frames
 ---

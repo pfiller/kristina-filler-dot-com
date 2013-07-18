@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Earth, Air, Wind, Fire"
-categories: fun-stuff
+category: fun-stuff
 
 thumbnail: earth_air
 ---

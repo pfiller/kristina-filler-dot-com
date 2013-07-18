@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Chocolate Peanut Butter Gallery"
-categories: fun-stuff
+category: fun-stuff
 
 thumbnail: cpbgallery_design
 ---

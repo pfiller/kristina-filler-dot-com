@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "The Kale Factory"
-categories: food-design
+category: food-design
 
 thumbnail: kale_krinkles
 ---

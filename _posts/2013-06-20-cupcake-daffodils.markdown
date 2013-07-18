@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Cupcake Daffoldils Shirt"
-categories: apparel
+category: apparel
 
 thumbnail: cupcake_daffodils
 ---

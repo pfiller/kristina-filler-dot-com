@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Embody Fitness Gormet"
-categories: food-design
+category: food-design
 
 thumbnail: embody_sign
 ---

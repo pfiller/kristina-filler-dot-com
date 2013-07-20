@@ -6,7 +6,7 @@ category: food-design
 thumbnail: askinosie_collabaration_design
 ---
 
-<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_01.jpg" width="790" height="916">
+<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_01.jpg" width="790" height="915">
 
 # Askinosie CollaBARation Chocolate Bars Package Design
 
@@ -14,7 +14,7 @@ Working closely with Shawn Askinosie, I designed their [CollaBARation line of ch
 
 This project has been [featured on The Dieline](http://www.thedieline.com/blog/2011/10/19/askinosie-chocolate-dark-milk-chocolate-black-licorice-bar.html) as well as in How Magazine.
 
-<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_02.jpg" width="790" height="527">
-<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_03.jpg" width="790" height="527">
-<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_03a.jpg" width="790" height="916">
+<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_02.jpg" width="790" height="526">
+<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_03.jpg" width="790" height="526">
+<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_03a.jpg" width="790" height="915">
 <img src="{{ site.baseurl}}/images/askinosie_collabaration_design_05.jpg" width="790" height="479">

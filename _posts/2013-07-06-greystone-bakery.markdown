@@ -6,7 +6,7 @@ category: food-design
 thumbnail: greyston_bakery
 ---
 
-<img src="{{ site.baseurl}}/images/greystonbakery_01.jpg" width="790" height="537">
+<img src="{{ site.baseurl}}/images/greystonbakery_01.jpg" width="790" height="536">
 
 # Greyston Bakery Annual Report
 
@@ -14,6 +14,6 @@ Greyston Bakery makes amazing brownies - so amazing that Ben & Jerry's uses them
 
 You can also find more information in their digital annual benefit report, which I had the honor of designing. http://www.greystonbakery.com/benefitreport/
 
-<img src="{{ site.baseurl}}/images/greystonbakery_annual_report_01.jpg" width="790" height="547">
-<img src="{{ site.baseurl}}/images/greystonbakery_annual_report_02.jpg" width="790" height="547">
-<img src="{{ site.baseurl}}/images/greystonbakery_annual_report_03.jpg" width="790" height="547">
+<img src="{{ site.baseurl}}/images/greystonbakery_annual_report_01.gif" width="790" height="547">
+<img src="{{ site.baseurl}}/images/greystonbakery_annual_report_02.gif" width="790" height="547">
+<img src="{{ site.baseurl}}/images/greystonbakery_annual_report_03.gif" width="790" height="547">

@@ -6,7 +6,7 @@ category: food-design
 thumbnail: zoku
 ---
 
-<img src="{{ site.baseurl}}/images/zoku_01.jpg" width="790" height="482">
+<img src="{{ site.baseurl}}/images/zoku_01.jpg" width="790" height="481">
 
 # Zoku Quick Pops
 
@@ -14,10 +14,10 @@ Becoming ["hangry"](http://www.urbandictionary.com/define.php?term=hangry) is on
 
 Quick Pops is a recipe book I co-wrote and designed. It's a book of ice pop recipes formulated specifically for use with their product, The [Zoku Quick Pop Maker](http://www.zokuhome.com/pages/products-quickpop-maker). You can [buy it online](http://www.zokuhome.com/pages/zoku-quick-pops-recipe-book).
 
-<img src="{{ site.baseurl}}/images/zoku_02.jpg" width="790" height="482">
+<img src="{{ site.baseurl}}/images/zoku_02.jpg" width="790" height="481">
 
-<img src="{{ site.baseurl}}/images/zoku_03.jpg" width="790" height="482">
+<img src="{{ site.baseurl}}/images/zoku_03.jpg" width="790" height="481">
 
-<img src="{{ site.baseurl}}/images/zoku_04.jpg" width="790" height="482">
+<img src="{{ site.baseurl}}/images/zoku_04.jpg" width="790" height="481">
 
-<img src="{{ site.baseurl}}/images/zoku_05.jpg" width="790" height="482">
+<img src="{{ site.baseurl}}/images/zoku_05.jpg" width="790" height="481">

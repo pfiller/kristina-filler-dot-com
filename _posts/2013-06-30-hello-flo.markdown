@@ -6,11 +6,11 @@ category: fun-stuff
 thumbnail: helloflo
 ---
 
-<img src="{{ site.baseurl}}/images/helloflo_01.png" width="790" height="527">
+<img src="{{ site.baseurl}}/images/helloflo_01.jpg" width="790" height="526">
 
 # Hello Flo
 
 [Hello Flo](http://www.helloflo.com/) is a timely subscription service that sends a customized box of supplies to satisfy your once-monthly feminine needs (including your chocolate craving!). This friendly brand required an approachable face and her cheeky wink represents the somewhat taboo cargo she delivers.
 
-<img src="{{ site.baseurl}}/images/helloflo_02.png" width="790" height="527">
-<img src="{{ site.baseurl}}/images/helloflo_03.png" width="790" height="527">
+<img src="{{ site.baseurl}}/images/helloflo_02.jpg" width="790" height="526">
+<img src="{{ site.baseurl}}/images/helloflo_03.jpg" width="790" height="526">

@@ -130,3 +130,19 @@ article a { color: #f58973; font-weight: bold; }
 article p { font-size: 14px; line-height: 20px; margin-bottom: 1.25em; }
 article figure { margin-bottom: 1.25em; }
 article figcaption { margin-top: 1.25em; }
+
+@media (max-width: 1200px) {
+  header {
+    width: 204px;
+  }
+  /* 329*223 */
+  header h1, header h3 {
+    background-size: 178px 263px !important;
+    height: 263px;
+    width: 178px;
+  }
+  article {
+    margin-left: 214px;
+    padding-right: 20px;
+  }
+}

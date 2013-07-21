@@ -67,6 +67,7 @@ table {
 
 body { 
   background: #f7f5e8;
+  color: #402E00;
   font-family: Futura, Helvetica, sans-serif;
 }
 
@@ -107,7 +108,7 @@ nav .copyright {
 }
 
 nav a {
-  color: black;
+  color: #402E00;
   line-height: 1.4em;
   text-decoration: none;
 }

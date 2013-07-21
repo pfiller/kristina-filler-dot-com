@@ -5,7 +5,7 @@ title: Kristina Filler | Food Packaging, Wedding Invitations and Custom Design
 
 <ul class="design-thumbs">
   {% for post in site.posts %}
-    <li data-category="{{post.category}}"><a href="{{ site.baseurl}}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" /></a></li>
+    <li data-category="{{post.category}}"><a href="{{ site.baseurl}}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" class="thumb" /><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb_over.jpg" class="thumb-over" width="186" height="156" /></a></li>
   {% endfor %}
 </ul>
 
@@ -13,6 +13,17 @@ title: Kristina Filler | Food Packaging, Wedding Invitations and Custom Design
 <script src="{{ site.baseurl }}/javascript/jquery.isotope.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 	(function(){
+
+		function thumbOver(evt){
+			console.log("hello")
+			$(this).find(".thumb").fadeOut("300");
+			$(this).find(".thumb-over").fadeIn("300");
+		}
+		function thumbOff(evt){
+			$(this).find(".thumb").fadeIn("300");
+			$(this).find(".thumb-over").fadeOut("300");	
+		}
+
 		function getCurrentFilter(){
 			var hash = window.location.hash.replace('#','');
 			return hash.length ? '[data-category="'+hash+'"]' : '';
@@ -34,6 +45,9 @@ title: Kristina Filler | Food Packaging, Wedding Invitations and Custom Design
 		  $(window).on('hashchange', function() {
 		  	$container.isotope({ filter: getCurrentFilter() });
 			});
+
+			$container.on("mouseenter", "a", thumbOver);
+			$container.on("mouseleave", "a", thumbOff);
 
 		});
 	})();

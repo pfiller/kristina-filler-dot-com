@@ -15,10 +15,8 @@ thumbnail: earth_air
 
 <figure>
 	<img src="{{ site.baseurl}}/images/earth_air_02.jpg" width="790" height="526">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/earth_air_03.jpg" width="790" height="527">
-	<figcaption></figcaption>
 </figure>

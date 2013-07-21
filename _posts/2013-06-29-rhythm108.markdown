@@ -10,27 +10,22 @@ thumbnail: rhythm108_design
 
 <figure>
 	<img src="{{ site.baseurl}}/images/rhythm108_design_01.jpg" width="790" height="500">
-	<figcaption></figcaption>
 </figure>
 
 [Rhythm108](http://rhythm108.com/), makers of the "good-for-you dessert bar" strive to make nutritious snacks in indulgent flavors that taste great. They employed the secrets of the ancient yogi (read: ancient indian techniques) to create very unique, healthy recipes with an Indian twist. These carefully crafted bars are made from a shockingly simple list of ingredients. That contrast resulted in a design that combines a crafted, vintage look with bright, trendy colors and illustrative elements.
 
 <figure>
 	<img src="{{ site.baseurl}}/images/rhythm108_design_02.jpg" width="790" height="500">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/rhythm108_design_03.jpg" width="790" height="500">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/rhythm108_design_04.jpg" width="790" height="500">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/rhythm108_design_05.jpg" width="790" height="500">
-	<figcaption></figcaption>
 </figure>

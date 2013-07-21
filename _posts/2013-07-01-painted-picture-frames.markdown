@@ -15,25 +15,20 @@ thumbnail: painted_frames
 
 <figure>
 	<img src="{{ site.baseurl}}/images/painted_frames_02.jpg" width="790" height="526">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/painted_frames_03.jpg" width="790" height="541">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/painted_frames_04.jpg" width="790" height="346">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/painted_frames_05.jpg" width="790" height="541">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/painted_frames_06.jpg" width="790" height="381">
-	<figcaption></figcaption>
 </figure>

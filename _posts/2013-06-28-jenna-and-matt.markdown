@@ -15,10 +15,8 @@ thumbnail: bimbi_weddinginvitedesign
 
 <figure>
 	<img src="{{ site.baseurl}}/images/bimbi_weddinginvitedesign_02.jpg" width="790" height="526">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/bimbi_weddinginvitedesign_03.jpg" width="790" height="526">
-	<figcaption></figcaption>
 </figure>

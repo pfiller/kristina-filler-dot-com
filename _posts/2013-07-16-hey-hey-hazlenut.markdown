@@ -10,14 +10,12 @@ thumbnail: askinosie_hazelnut
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_hazelnut_01.jpg" width="790" height="504">
-	<figcaption></figcaption>
 </figure>
 
 Askinosie's [Chocolate Hazelnut Spread](http://www.askinosie.com/p-107-hey-hey-hazelnut-chocolate-hazelnut-spread.aspx) is so good that you should stop reading this and go buy some. [Askinosie Chocolate's](http://www.askinosie.com/) branding is a bit industrial-looking like their factory and bold like their flavors. They take pride in having great rapport with their cocoa farmers, whom they feature on a lot of their packaging, like this jar.
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_hazelnut_02.jpg" width="790" height="504">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
@@ -27,12 +25,10 @@ Askinosie's [Chocolate Hazelnut Spread](http://www.askinosie.com/p-107-hey-hey-h
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_box_02.jpg" width="790" height="526">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_box_03.jpg" width="790" height="533">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
@@ -42,5 +38,4 @@ Askinosie's [Chocolate Hazelnut Spread](http://www.askinosie.com/p-107-hey-hey-h
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_shirt_02.jpg" width="790" height="753">
-	<figcaption></figcaption>
 </figure>

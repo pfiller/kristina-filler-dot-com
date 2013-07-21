@@ -10,7 +10,6 @@ thumbnail: askinosie_collabaration_design
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_01.jpg" width="790" height="915">
-	<figcaption></figcaption>
 </figure>
 
 
@@ -20,20 +19,16 @@ This project has been [featured on The Dieline](http://www.thedieline.com/blog/2
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_02.jpg" width="790" height="526">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_03.jpg" width="790" height="526">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_03a.jpg" width="790" height="915">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/askinosie_collabaration_design_05.jpg" width="790" height="479">
-	<figcaption></figcaption>
 </figure>

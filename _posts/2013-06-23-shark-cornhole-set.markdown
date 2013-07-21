@@ -15,10 +15,8 @@ thumbnail: sharks_baggo_set
 
 <figure>
 	<img src="{{ site.baseurl}}/images/sharks_baggo_set_02.jpg" width="790" height="592">
-	<figcaption></figcaption>
 </figure>
 
 <figure>
 	<img src="{{ site.baseurl}}/images/sharks_baggo_set_03.jpg" width="790" height="592">
-	<figcaption></figcaption>
 </figure>

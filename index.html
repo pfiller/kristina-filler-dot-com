@@ -5,7 +5,7 @@ title: Kristina Filler | Food Packaging, Wedding Invitations and Custom Design
 
 <ul class="design-thumbs">
   {% for post in site.posts %}
-    <li data-category="{{post.category}}"><a href="{{ site.baseurl}}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" class="thumb" /><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb_over.jpg" class="thumb-over" width="186" height="156" /></a></li>
+    <li data-category="{{post.categories}}"><a href="{{ site.baseurl}}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb.jpg" width="186" height="156" class="thumb" /><img src="{{ site.baseurl}}/images/{{ post.thumbnail }}_thumb_over.jpg" class="thumb-over" width="186" height="156" /></a></li>
   {% endfor %}
 </ul>
 
@@ -26,7 +26,7 @@ title: Kristina Filler | Food Packaging, Wedding Invitations and Custom Design
 
 		function getCurrentFilter(){
 			var hash = window.location.hash.replace('#','');
-			return hash.length ? '[data-category="'+hash+'"]' : '';
+			return hash.length ? '[data-category*="'+hash+'"]' : '';
 		}
 
 		$(function(){

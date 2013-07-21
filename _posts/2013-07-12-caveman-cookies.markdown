@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Caveman Cookies Branding"
-category: food-design
+categories: food-design, apparel
 
 thumbnail: caveman_cookies
 ---

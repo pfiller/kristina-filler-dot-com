@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Shark Cornhole Set Design by"
+title:  "Shark Cornhole Set"
 category: fun-stuff
 
 thumbnail: sharks_baggo_set

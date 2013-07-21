@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Askinosie CollaBARation Chocolate Bars Package Design by"
+title:  "Askinosie CollaBARation Chocolate Bars"
 category: food-design
 
 thumbnail: askinosie_collabaration_design

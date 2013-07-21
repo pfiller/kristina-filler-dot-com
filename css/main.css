@@ -49,6 +49,16 @@ table {
   border-spacing: 0;
 }
 
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -133,9 +143,30 @@ article h1 {
 
 article a { color: #f58973; font-weight: bold; }
 
+article blockquote { font-size: 20px; font-style: italic; line-height: 1.5em; margin-bottom: 1.25em;}
+article blockquote span { font-size: 16px; }
 article p { font-size: 14px; line-height: 20px; margin-bottom: 1.25em; }
 article figure { margin-bottom: 1.25em; }
 article figcaption { margin-top: 1.25em; }
+
+.about figure { float: left; }
+.about-content { float: right; width: 445px; margin-top: -4px;}
+
+.press ul { margin: 1.25em 0; }
+.press li { float: left; margin-right: 25px; }
+.press a {
+  display: block;
+  height: 194px;
+  overflow: hidden;
+  text-indent: 100%;
+  width: 151px;
+  white-space: nowrap;
+}
+.press a:hover { background-position: -151px 0; }
+.press .good-foods { background: url('{{site.baseurl}}/images/press/good_food_jobs_interview.jpg') no-repeat; }
+.press .how-magazine { background: url('{{site.baseurl}}/images/press/how_magazine_interview.jpg') no-repeat; }
+.press .everyday { background: url('{{site.baseurl}}/images/press/everyday_mag_kfiller.jpg') no-repeat; }
+.press .the-dieline { background: url('{{site.baseurl}}/images/press/thedieline_caveman_cookies.jpg') no-repeat; }
 
 @media (max-width: 1200px) {
   header {

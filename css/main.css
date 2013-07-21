@@ -152,6 +152,21 @@ article figcaption { margin-top: 1.25em; }
 .about figure { float: left; }
 .about-content { float: right; width: 445px; margin-top: -4px;}
 
+.social-icon {
+  background-image: url('{{site.baseurl}}/images/press/social-icons.png');
+  display: inline-block;
+  height: 19px;
+  margin-right: 10px;
+  overflow: hidden;
+  text-indent: 100%;
+  width: 19px;
+  white-space: nowrap;  
+}
+.social-icon.pinterest { background-position: -29px 0; }
+.social-icon.instagram { background-position: -58px 0; }
+
+.sep { margin: 0 5px; }
+
 .press ul { margin: 1.25em 0; }
 .press li { float: left; margin-right: 25px; }
 .press a {

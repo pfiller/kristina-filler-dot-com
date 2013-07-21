@@ -145,7 +145,7 @@ article h2 {
   overflow: hidden;
   width: 186px;
 }
-.design-thumbs li a { position: relateve; }
+.design-thumbs li a { position: relative; }
 .design-thumbs li img { position: absolute; top: 0; left: 0; }
 .design-thumbs .thumb-over { display: none; }
 

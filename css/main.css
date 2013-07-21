@@ -79,6 +79,10 @@ header h1, header h3 {
   width: 223px;
 }
 
+header h1 {
+  cursor: pointer;
+}
+
 nav {
   margin-top: 20px;
 }

@@ -67,7 +67,7 @@ table {
 
 body { 
   background: #f7f5e8;
-  font-family: Helvetica, sans-serif;
+  font-family: Futura, Helvetica, sans-serif;
 }
 
 header {
@@ -125,9 +125,9 @@ article {
 
 article h1 {
   font-size: 18px;
-  font-weight: bold;
   line-height: 1.5em;
   margin-bottom: 1.25em;
+  text-transform: uppercase;
 }
 
 .design-thumbs {

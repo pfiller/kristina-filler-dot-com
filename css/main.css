@@ -108,6 +108,10 @@ article {
   width: 800px;
 }
 
+article h1 {
+  font-size: 18px;
+}
+
 .design-thumbs li {
   float: left;
   height: 156px;
@@ -120,7 +124,9 @@ article {
 
 article a { color: #f58973; font-weight: bold; }
 
-article img { margin-bottom: 1.25em; }
+article p { font-size: 14px; line-height: 20px; margin-bottom: 1.25em; }
+article figure { margin-bottom: 1.25em; }
+article figcaption { margin-top: 1.25em; }
 
 article h1 { font-size: 14px; line-height: 20px; font-weight: bold; margin-bottom: 1.25em; }
-p { font-size: 14px; line-height: 20px; margin-bottom: 1.25em; }
+

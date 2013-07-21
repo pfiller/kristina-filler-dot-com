@@ -129,6 +129,9 @@ article h1 {
   margin-bottom: 1.25em;
   text-transform: uppercase;
 }
+article h2 {
+  text-transform: uppercase;
+}
 
 .design-thumbs {
   margin-left: -7px;
@@ -144,10 +147,9 @@ article h1 {
 article a { color: #f58973; font-weight: bold; }
 
 article blockquote { font-size: 20px; font-style: italic; line-height: 1.5em; margin-bottom: 1.25em;}
-article blockquote span { font-size: 16px; }
-article p { font-size: 14px; line-height: 20px; margin-bottom: 1.25em; }
-article figure { margin-bottom: 1.25em; }
-article figcaption { margin-top: 1.25em; }
+article blockquote span { display: block; font-size: 16px; }
+article p, article figcaption { font-size: 14px; line-height: 1.75em; margin-bottom: 1.25em; }
+article figure img { margin-bottom: 1.25em; }
 
 .about figure { float: left; }
 .about-content { float: right; width: 445px; margin-top: -4px;}
@@ -167,6 +169,7 @@ article figcaption { margin-top: 1.25em; }
 
 .sep { margin: 0 5px; }
 
+.press { margin-top: 1.5em; }
 .press ul { margin: 1.25em 0; }
 .press li { float: left; margin-right: 25px; }
 .press a {

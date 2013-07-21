@@ -6,18 +6,33 @@ category: food-design
 thumbnail: zoku
 ---
 
-<img src="{{ site.baseurl}}/images/zoku_01.jpg" width="790" height="481">
-
 # Zoku Quick Pops
+
+<figure>
+	<img src="{{ site.baseurl}}/images/zoku_01.jpg" width="790" height="481">
+	<figcaption></figcaption>
+</figure>
 
 Becoming ["hangry"](http://www.urbandictionary.com/define.php?term=hangry) is one of the worst things in the world, in my opinion. I have been known to be impatient while waiting for food, especially dessert. So when my friends came out with an ice pop maker that could freeze ice pops in 7 minutes, my perpetually hungry self felt quite relieved.
 
 Quick Pops is a recipe book I co-wrote and designed. It's a book of ice pop recipes formulated specifically for use with their product, The [Zoku Quick Pop Maker](http://www.zokuhome.com/pages/products-quickpop-maker). You can [buy it online](http://www.zokuhome.com/pages/zoku-quick-pops-recipe-book).
 
-<img src="{{ site.baseurl}}/images/zoku_02.jpg" width="790" height="481">
+<figure>
+	<img src="{{ site.baseurl}}/images/zoku_02.jpg" width="790" height="481">
+	<figcaption></figcaption>
+</figure>
 
-<img src="{{ site.baseurl}}/images/zoku_03.jpg" width="790" height="481">
+<figure>
+	<img src="{{ site.baseurl}}/images/zoku_03.jpg" width="790" height="481">
+	<figcaption></figcaption>
+</figure>
 
-<img src="{{ site.baseurl}}/images/zoku_04.jpg" width="790" height="481">
+<figure>
+	<img src="{{ site.baseurl}}/images/zoku_04.jpg" width="790" height="481">
+	<figcaption></figcaption>
+</figure>
 
-<img src="{{ site.baseurl}}/images/zoku_05.jpg" width="790" height="481">
+<figure>
+	<img src="{{ site.baseurl}}/images/zoku_05.jpg" width="790" height="481">
+	<figcaption></figcaption>
+</figure>

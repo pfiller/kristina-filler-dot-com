@@ -6,14 +6,28 @@ category: food-design
 thumbnail: chiastar_bottledesign
 ---
 
-<img src="{{ site.baseurl}}/images/chiastar_bottledesign_01.jpg" width="790" height="527">
-
 # Chia Star
+
+<figure>
+	<img src="{{ site.baseurl}}/images/chiastar_bottledesign_01.jpg" width="790" height="527">
+	<figcaption></figcaption>
+</figure>
 
 [Chia Star](http://chiastar.com/) is a superfood drink that is loaded with chia seeds. Chia seeds are nutritious and sustainable and have an incredible amount of [other healthy attributes](http://chiastar.com/about_chia.php). The owner liked my [Earth, Air, Wind, Fire Silkscreen](/work/earth-air-wind-fire.html), but wanted it to be punchy so that the label would really reflect the power of chia. So we combined that natural look with some bright colors, threw a few stars and lightening bolts in and vua la.
 
 The Chia Star labels have been [featured on The Dieline](http://www.thedieline.com/blog/2012/7/30/chia-star.html)
 
-<img src="{{ site.baseurl}}/images/chiastar_bottledesign_02.jpg" width="790" height="526">
-<img src="{{ site.baseurl}}/images/chiastar_bottledesign_03.jpg" width="790" height="526">
-<img src="{{ site.baseurl}}/images/chiastar_bottledesign_04.jpg" width="790" height="526">
+<figure>
+	<img src="{{ site.baseurl}}/images/chiastar_bottledesign_02.jpg" width="790" height="526">
+	<figcaption></figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.baseurl}}/images/chiastar_bottledesign_03.jpg" width="790" height="526">
+	<figcaption></figcaption>
+</figure>
+
+<figure>
+	<img src="{{ site.baseurl}}/images/chiastar_bottledesign_04.jpg" width="790" height="526">
+	<figcaption></figcaption>
+</figure>

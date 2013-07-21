@@ -133,6 +133,9 @@ article figcaption { margin-top: 1.25em; }
 
 @media (max-width: 1200px) {
   header {
+    left: 0;
+    position: fixed;
+    top: 0;
     width: 204px;
   }
   /* 329*223 */

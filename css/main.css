@@ -155,6 +155,7 @@ article figcaption { margin-top: 1.25em; }
 .press ul { margin: 1.25em 0; }
 .press li { float: left; margin-right: 25px; }
 .press a {
+  background-position: -151px 0;
   display: block;
   height: 194px;
   overflow: hidden;
@@ -162,11 +163,11 @@ article figcaption { margin-top: 1.25em; }
   width: 151px;
   white-space: nowrap;
 }
-.press a:hover { background-position: -151px 0; }
-.press .good-foods { background: url('{{site.baseurl}}/images/press/good_food_jobs_interview.jpg') no-repeat; }
-.press .how-magazine { background: url('{{site.baseurl}}/images/press/how_magazine_interview.jpg') no-repeat; }
-.press .everyday { background: url('{{site.baseurl}}/images/press/everyday_mag_kfiller.jpg') no-repeat; }
-.press .the-dieline { background: url('{{site.baseurl}}/images/press/thedieline_caveman_cookies.jpg') no-repeat; }
+.press a:hover { background-position: 0 0; }
+.press .good-foods { background-image: url('{{site.baseurl}}/images/press/good_food_jobs_interview.jpg'); }
+.press .how-magazine { background-image: url('{{site.baseurl}}/images/press/how_magazine_interview.jpg'); }
+.press .everyday { background-image: url('{{site.baseurl}}/images/press/everyday_mag_kfiller.jpg'); }
+.press .the-dieline { background-image: url('{{site.baseurl}}/images/press/thedieline_caveman_cookies.jpg'); }
 
 @media (max-width: 1200px) {
   header {

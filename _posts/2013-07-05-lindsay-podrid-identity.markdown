@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Hello Flo"
+title:  "Lindsasaur Logo"
 category: fun-stuff
 
 thumbnail: lindsay_podrid_card_design

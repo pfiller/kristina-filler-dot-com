@@ -35,5 +35,30 @@
         {{ content }}
       </article>
 
+      <script type="text/javascript">
+        (function(){
+            function getParameterByName(name) {
+                var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+                return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+            }
+
+            function makeElement(htmlStr) {
+                var frag = document.createDocumentFragment(),
+                    temp = document.createElement('div');
+                temp.innerHTML = htmlStr;
+                while (temp.firstChild) {
+                    frag.appendChild(temp.firstChild);
+                }
+                return frag;
+            }
+
+            if(getParameterByName('sacci')){
+                var banner = makeElement('<div id="kristinasacci">Psst&hellip; Kristina Sacci is now Kristina Filler (oohlala). You&rsquo;ve been re-directed. Welcome!</div>');
+                article = document.getElementsByTagName('article')[0];
+                article.insertBefore(banner, article.childNodes[0]);
+            }
+        })();
+      </script>
     </body>
 </html>

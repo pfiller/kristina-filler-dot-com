@@ -192,6 +192,15 @@ article figure img { margin-bottom: 1.25em; }
 .press .everyday { background-image: url('{{site.baseurl}}/images/press/everyday_mag_kfiller.jpg'); }
 .press .the-dieline { background-image: url('{{site.baseurl}}/images/press/thedieline_caveman_cookies.jpg'); }
 
+#kristinasacci {
+  background: #402e00 url('/images/from-ksacci.png') no-repeat 13px 8px;
+  color: white;
+  margin: -10px 0 20px;
+  padding: 10px 50px;
+  width: 100%;
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
 @media (max-width: 1200px) {
   header {
     width: 204px;

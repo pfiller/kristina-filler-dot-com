@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Jenna and Matt's Wedding Invite"
-category: weddings
+category: fun-stuff
 
 thumbnail: bimbi_weddinginvitedesign
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Lawren and Scott's Wedding Invite"
-category: weddings
+category: fun-stuff
 
 thumbnail: lawren_wedding_invite
 ---

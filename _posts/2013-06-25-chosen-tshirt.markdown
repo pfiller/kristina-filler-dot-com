@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Chosen Tshirt Design"
-category: apparel
+category: swag
 
 thumbnail: chosen_tshirt
 ---

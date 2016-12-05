@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Violeta and Martin's Wedding Invite"
-category: weddings
+category: fun-stuff
 
 thumbnail: violeta_wedding_invite
 ---

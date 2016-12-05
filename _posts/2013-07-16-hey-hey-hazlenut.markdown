@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Askinosie Chocolate Packaging"
-categories: food-design, apparel
+categories: food-design, swag
 
 thumbnail: askinosie_hazelnut
 ---

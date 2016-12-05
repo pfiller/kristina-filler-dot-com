@@ -31,3 +31,11 @@ You can [buy the set on their site](http://www.fishseddy.com/browse.cfm/2,108.ht
 <figure>
 	<img src="{{ site.baseurl}}/images/brooklynese_05.jpg" width="790" height="500">
 </figure>
+
+<figure>
+    <img src="{{ site.baseurl}}/images/fishs_eddy_dish_clawth_02.jpg" width="790" height="499">
+</figure>
+
+<figure>
+    <img src="{{ site.baseurl}}/images/fishs_eddy_rubbuh.jpg" width="790" height="526">
+</figure>

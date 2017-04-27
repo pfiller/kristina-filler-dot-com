@@ -12,7 +12,7 @@ thumbnail: munk_pack
 	<img src="{{ site.baseurl}}/images/kfiller_munk_pack_logo_design.jpg" width="790" height="207">
 </figure>
 
-Munk Pack makes ready-to-eat oatmeal squeeze packs that are healthy and convenient for all of your outdoorsy needs. Their ingredients are based on the chipmunk diet, hence the name and nibbling squirrel in the logo.
+As part of [Motto's](http://wearemotto.com) design team for this project, I helped develop the logo, branding and packaging for Munk Pack. Munk pack makes ready-to-eat oatmeal squeeze packs and protein cookies that are healthy and convenient for all of your outdoorsy needs. Their ingredients are based on the chipmunk diet, hence the name and nibbling squirrel in the logo.
 
 Find out more about [Munk Pack](http://www.munkpack.com).
 

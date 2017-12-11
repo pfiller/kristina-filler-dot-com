@@ -1,0 +1,114 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>About and Contact</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="stylesheet" href="/2013-2017/css/main.css">
+        <link rel="canonical" href="http://kristinafiller.com/about-contact">
+        <link rel="shortcut icon" href="/favicon.ico?v=022" />
+    </head>
+    <body>
+      <header>
+        
+        <a href="/2013-2017/"><h3 class="title">Kristina Filler</h3></a>
+        
+        
+        <nav>
+          <ul>
+            <li><a href="/2013-2017/#food-design" class="category-link">Food Design</a></li>
+            <li><a href="/2013-2017/#swag" class="category-link">Swag</a></li>
+            <li><a href="/2013-2017/#fun-stuff" class="category-link">Fun Stuff</a></li>
+            <li><a href="/2013-2017/about-contact.html">About &amp; Contact</a></li>
+            <li class="copyright">All works &copy; 2013-2017 Kristina Filler</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <article>
+        <section class="about cf">
+	<h1>About &amp; Contact</h1>
+
+	<figure>
+		<img src="/2013-2017/images/press/kristina_filler_design_austin.jpg" width="325" height="427">
+	</figure>
+	<div class="about-content">
+		<blockquote>
+			I love art and I love chocolate.<br>
+			Please don't ask me to pick a favorite<br>
+			because they are both the best.
+		</blockquote>
+
+		<p>I earned my professional art wings in Communication Arts / Illustration at Pratt Institute in Brooklyn, NY and have been toiling away in my artist lair working full-time freelance for almost 10 years. In 2011, I made and ate about 800 ice pops and became a published cookbook co-author and designer. In my spare time I cook, eat, paint, watch all of the bad romantic comedies and travel the world with my wonderful programmer husband, <a href="http://patrickfiller.com/">Patrick</a>.</p>
+
+		<p>My specialties include food packaging, branding, swag, food photography, creative writing, painting, murals and spending way too much time on personalized birthday cards for loved ones. I was born and raised eating eggplant parmesean in NJ, but am currently assisting in the righteous task of keeping it weird in Austin, TX. I am lucky enough to travel the world regularly and to work with people both near and far. Some of my current professional interests include working with humans who want to do good for the world, companies that want to promote health and well-being and those with sustainable and environment-friendly practices. Also, anyone who shares with me an appreciation for ice cream shop servers who have a heavy hand with the hot fudge. They are the true heroes.</p>
+
+		<p>Contact me about your project and I'll design you somethin' sweet.</p>
+
+		<p><a href="mailto:hello@kristinafiller.com">hello@kristinafiller.com</a> <span class="sep">/</span> (815) 572–1196 <span class="sep">/</span>
+			<a href="https://twitter.com/kristinafiller" class="social-icon twitter">Twitter</a>
+			<a href="http://pinterest.com/kstar810/" class="social-icon pinterest">Pinterest</a>
+			<a href="http://instagram.com/kstar810" class="social-icon instagram">Instagram</a>
+		</p>
+	<div>
+</section>
+
+<section class="press">
+	<h2>Press</h2>
+
+	<ul class="cf">
+		<li>
+			<a href="http://www.goodfoodjobs.com/blog/kristina-sacci-freelance-package-designer-self-employed/" class="good-foods">
+				Good Food Jobs Blog
+			</a>
+		</li>
+		<li>
+			<a href="/2013-2017/pdfs/how_magazine_kfiller.pdf" class="how-magazine">
+				How Magazine
+			</a>
+		</li>
+		<li>
+			<a href="/2013-2017/pdfs/everday_mag_brooklynese.pdf" class="everyday">
+				Every Day Magazine
+			</a>
+		</li>
+		<li>
+			<a href="http://www.thedieline.com/blog/2011/10/19/askinosie-chocolate-dark-milk-chocolate-black-licorice-bar.html" class="the-dieline">
+				The Dieline
+			</a>
+		</li>
+	</ul>
+</section>
+
+      </article>
+
+      <script type="text/javascript">
+        (function(){
+            function getParameterByName(name) {
+                var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+                return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+            }
+
+            function makeElement(htmlStr) {
+                var frag = document.createDocumentFragment(),
+                    temp = document.createElement('div');
+                temp.innerHTML = htmlStr;
+                while (temp.firstChild) {
+                    frag.appendChild(temp.firstChild);
+                }
+                return frag;
+            }
+
+            if(getParameterByName('sacci')){
+                var banner = makeElement('<div id="kristinasacci">Psst&hellip; Kristina Sacci is now Kristina Filler (oohlala). You&rsquo;ve been re-directed. Welcome!</div>');
+                article = document.getElementsByTagName('article')[0];
+                article.insertBefore(banner, article.childNodes[0]);
+            }
+        })();
+      </script>
+    </body>
+</html>

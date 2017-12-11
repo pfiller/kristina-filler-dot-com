@@ -1,0 +1,76 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Hello Flo Designed By Kristina Filler</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <link rel="stylesheet" href="/2013-2017/css/main.css">
+        <link rel="canonical" href="http://kristinafiller.com/2013-2017/work/hello-flo.html">
+        <link rel="shortcut icon" href="/favicon.ico?v=022" />
+    </head>
+    <body>
+      <header>
+        
+        <a href="/2013-2017/"><h3 class="title">Kristina Filler</h3></a>
+        
+        
+        <nav>
+          <ul>
+            <li><a href="/2013-2017/#food-design" class="category-link">Food Design</a></li>
+            <li><a href="/2013-2017/#swag" class="category-link">Swag</a></li>
+            <li><a href="/2013-2017/#fun-stuff" class="category-link">Fun Stuff</a></li>
+            <li><a href="/2013-2017/about-contact.html">About &amp; Contact</a></li>
+            <li class="copyright">All works &copy; 2013-2017 Kristina Filler</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <article>
+        <h1 id="hello-flo">Hello Flo</h1>
+
+<figure>
+	<img src="/2013-2017/images/helloflo_01.jpg" width="790" height="526" />
+</figure>
+
+<p><a href="http://www.helloflo.com/">Hello Flo</a> is a timely subscription service that sends a customized box of supplies to satisfy your once-monthly feminine needs (including your chocolate craving!). This friendly brand required an approachable face and her cheeky wink represents the somewhat taboo cargo she delivers.</p>
+
+<figure>
+	<img src="/2013-2017/images/helloflo_02.jpg" width="790" height="526" />
+</figure>
+
+<figure>
+	<img src="/2013-2017/images/helloflo_03.jpg" width="790" height="526" />
+</figure>
+
+      </article>
+
+      <script type="text/javascript">
+        (function(){
+            function getParameterByName(name) {
+                var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                results = regex.exec(location.search);
+                return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+            }
+
+            function makeElement(htmlStr) {
+                var frag = document.createDocumentFragment(),
+                    temp = document.createElement('div');
+                temp.innerHTML = htmlStr;
+                while (temp.firstChild) {
+                    frag.appendChild(temp.firstChild);
+                }
+                return frag;
+            }
+
+            if(getParameterByName('sacci')){
+                var banner = makeElement('<div id="kristinasacci">Psst&hellip; Kristina Sacci is now Kristina Filler (oohlala). You&rsquo;ve been re-directed. Welcome!</div>');
+                article = document.getElementsByTagName('article')[0];
+                article.insertBefore(banner, article.childNodes[0]);
+            }
+        })();
+      </script>
+    </body>
+</html>

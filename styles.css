@@ -91,7 +91,6 @@ p {
 }
 header + section p {
   margin: 0 auto 0;
-  max-width: 100%;
 }
 
 .good-at-stuff {

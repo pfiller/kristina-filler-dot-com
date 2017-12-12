@@ -52,14 +52,15 @@ table {
 
 body {
 	background: #FAF6E9;
-  color: #391D03;
-  font-family: helvetica;
+  color: #653305;
+  font-family: Futura, Helvetica, sans-serif;
+  font-size: .875em;
   text-align: center;
 }
 header {
   margin: 0 auto;
   max-width: 502px;
-  padding: 50px 0 25px;
+  padding: 50px 0 0;
   width: 100%;
 }
 .header-bg {
@@ -82,9 +83,9 @@ a {
   color: #D2A447;
 }
 p {
-  line-height: 1.25em;
+  line-height: 1.5em;
   margin: 0 auto 1em;
-  max-width: 500px;
+  max-width: 525px;
 }
 header + section p {
   margin: 0 auto 0;
@@ -99,10 +100,10 @@ header + section p {
   text-transform: uppercase;
 }
 .good-at-stuff a {
-  color: #391D03;
+  color: #653305;
 }
 .good-at-stuff figure {
-  margin-bottom: 1em;
+  margin: 35px 10px;
 }
 h2 {
   font-size: 1.75em;
@@ -118,4 +119,9 @@ h2 span {
 img {
   height: auto;
   max-width: 100%;
+}
+.copyright {
+  color: rgba(90, 46, 4, 0.55);
+  font-size: .85em;
+  margin-bottom: 50px;
 }

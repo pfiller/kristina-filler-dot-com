@@ -60,13 +60,13 @@ body {
 header {
   box-sizing: border-box;
   margin: 0 auto;
-  max-width: 502px;
+  max-width: 562px;
   padding: 50px 30px 0;
   width: 100%;
 }
 .header-bg {
   background: url('{{site.baseurl}}header-img.png') no-repeat;
-  background-size: 100% 100%;
+  background-size: 100% auto;
   height: 245px;
   margin: 0 auto;
   max-width: 100%;
